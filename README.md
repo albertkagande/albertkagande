@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @albertkagande
 - 👀 I’m interested in building Mobile and Web Applications
 - 🌱 I’m currently learning Flutter 
-- 💞️ I’m looking to collaborate on Flutter Projects
+- 💞️ I’m looking to collaborate on Web and Mobile Projects
 - 📫 How to reach me: kagandea@outlook.com
 
 <!---
